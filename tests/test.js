@@ -1,4 +1,4 @@
-#orders 
+#order
 var assert = require('assert');
 
 describe('String', function () {
